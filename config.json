@@ -1,0 +1,9 @@
+{
+  "SPALO_WEBHOOK_KEY": "your-spalo-webhook-key",
+  "kintone": {
+    "subdomain": "your-kintone-subdomain",
+    "loginName": "your-kintone-loginName",
+    "loginPassword": "your-kintone-loginPassword",
+    "appId": "your-kintone-appId (int)"
+  }
+}
